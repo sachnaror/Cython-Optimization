@@ -16,4 +16,5 @@ python setup.py build_ext --inplace
 
 --------------
 
-![alt text](image.png)
+
+<img width="532" alt="Screenshot 2024-02-27 at 4 54 17 AM" src="https://github.com/sachnaror/Cython-Optimization/assets/9551754/2135f11e-e7af-4de2-96c5-38480fcf7373">
